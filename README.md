@@ -1,4 +1,4 @@
-# 🌍 Bergamo LULC–LST Processing (2006)
+#  The province of Bergamo LULC–LST Processing ( from2002 to 2022, a 4-year interval)
 
 This repository contains code and visual documentation for extracting spatial landscape metrics from MODIS satellite data to analyze the relationship between **land use/land cover (LULC)** and **land surface temperature (LST)** in the **province of Bergamo, Italy**.
 

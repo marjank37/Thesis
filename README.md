@@ -1,3 +1,15 @@
+## 🌍 Sample Results – Visual Maps
+
+Below are examples of the processed data extracted in **Google Earth Engine (GEE)** using MODIS datasets for the province of **Bergamo** in **August 2002**.
+
+### 🟢 Land Surface Temperature (LST)
+![LST map](LST_map.png)
+
+### 🌿 Land Use / Land Cover (LULC)
+![LULC map](LULC_map.png)
+
+
+
 #  The province of Bergamo LULC–LST Processing ( from 2002 to 2022, a 4-year interval)
 
 This repository contains code and visual documentation for extracting spatial landscape metrics from MODIS satellite data to analyze the relationship between **land use/land cover (LULC)** and **land surface temperature (LST)** in the **province of Bergamo, Italy**.
